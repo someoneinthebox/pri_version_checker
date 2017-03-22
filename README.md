@@ -14,7 +14,7 @@ To answer this question and solve the problem, you can use this simple checker. 
 
 # System requirements
 
-Qt 5
+[Qt 5](https://www.qt.io/download/)
 
 # Installation
 
