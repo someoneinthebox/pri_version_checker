@@ -6,7 +6,7 @@ Sometimes we have one big project which contains a few or a lot of libraries tha
 
 `MY_LIB_VERSION = 1.2.0`
 
-But what if we use this library in other projects and someone modify it, and this modification broke compatibility with other project? Answer is simple - when we pull changes from repository we just can't build the project.
+But what if we use this library in other projects and someone modify it, and this modification broke compatibility with other project? Answer is simple - when we pull changes from repository we just can't build the project, or worse - there will be not so obvious error that surprise you while project running.
 
 And here is the problem - **how we can dynamically monitor this stuff**?
 
